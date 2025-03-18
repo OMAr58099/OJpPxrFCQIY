@@ -113,7 +113,6 @@ linters-settings:
       - caseOrder
       - codegenComment
       #- commentFormatting # Enabled by default
-      - defaultCaseOrder
       - deprecatedComment
       - dupArg
       - dupBranchBody
